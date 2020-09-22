@@ -1,3 +1,8 @@
 body {
     background-color: blue;
 }
+
+h2 {
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.1);
+}
